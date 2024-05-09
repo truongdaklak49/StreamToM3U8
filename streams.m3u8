@@ -4,19 +4,19 @@
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="KBSKorea.yt" tvg-name="KBS KOREA Live" group-title="News", KBS KOREA Live
-https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715278385/ei/0b08ZsPCNbiAlu8Pi7yhmA4/ip/172.183.98.194/id/OxQQsIvJTTU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgStuUTKsflPmuDQYG0HPFn-4Srdd0AdHlYBXZylO_YhICIQCyJs-xJ1zY9-Wf8VfeY5eKPp92fWkjt2d9mFN6h07dNQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="KBSWorldRadio.yt" tvg-name="KBS World Radio" group-title="Radio", KBS World Radio
-https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715278386/ei/0r08ZtCbI7u3lu8P8Y-HqAE/ip/172.183.98.194/id/EIfaYst9ZsY.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgOk8a8gThA7i18EQKyDfJTtzCCp5dHyO1IPDoQ2x7Oz8CIQCfL-YFU02hMJ-uvcioVll327tEY6AJDK8YCXRm3W3MMw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="ArirangTV.yt" tvg-name="Arirang TV" group-title="Education", Arirang TV
-https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715278387/ei/0708ZtOJE9PDlu8PwYil4Ao/ip/172.183.98.194/id/CJVBX7KI5nU.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALwc8GiCi_Ln211MCdZP8_u_yaZ3lcPtFQxLFxTZ_PZdAiBIg45Wh3BvAMG659fPF0GqVukl8kY5MtU9B6vdFTxyBQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="ArirangRadio.yt" tvg-name="Arirang Radio" group-title="Radio", Arirang Radio
-https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715278388/ei/1L08ZqinArWhlu8Pp9qGuAU/ip/172.183.98.194/id/P1fX2GGdVS0.11/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51094388/txs/51094388%2C51094389/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALrgrMHt3O_RG1T0cApi2FDYbFitVtuIWIInozXDurL0AiBbI08WMUeFyPiXFEUmVyX8Xw8jnAdeNPX6SEEtkbgL_g%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="TBS1013.yt" tvg-name="TBS Korea eFM 101.3" group-title="Radio", TBS Korea eFM 101.3
-https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715278388/ei/1L08ZsLWN76Ilu8PscOgqAo/ip/172.183.98.194/id/i2pC0RRyGMg.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANFZo9kA18nsCDLXaPjR14QdsuN39wLYSgpxYrx1NFBGAiAJbOxGMaxgWe_MSRzRVeysvy7gJsQDfYepoAYfpm2Y7w%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="TheKPopLive.yt" tvg-name="THE K-POP Live" group-title="Music", THE K-POP Live
-https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715278389/ei/1b08Zs7eHPOW2_gPu5SwaA/ip/172.183.98.194/id/JVocS7Yftw8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAI1XfjmutLHJQ76LVj15S0EFOLOZviMmbTKmI0VUf82cAiAYCSYbuzVoW2LYKe506a6DF29QI5JMZLhHyU8tFK7xbw%3D%3D/file/index.m3u8

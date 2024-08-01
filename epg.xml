@@ -2,11 +2,6 @@
   <channel id="KBSKorea.yt">
     <display-name lang="en">KBS KOREA Live</display-name>
   </channel>
-  <programme channel="KBSKorea.yt" start="20240801120000 +0100" stop="20240801150000 +0100">
-    <title lang="en">KBS KOREA On-Air</title>
-    <desc lang="en">[전 세계 한국인의 중심 채널 KBS KOREA]KBS KOREA는 해외동포를 위해 KBS 뉴스, 시사, 교양, 드라마, 예능 프로그램 등을 방송하는 채널입니다. 한국과 같은 시간에 방송되는 다양한 프로그램을 전 세계에서 즐길 수 있습니다. ▶ 편성표 : https://kbswor...</desc>
-    <icon src="https://i.ytimg.com/vi/OxQQsIvJTTU/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="KBSKorea.yt" start="20240801150000 +0100" stop="20240801180000 +0100">
     <title lang="en">KBS KOREA On-Air</title>
     <desc lang="en">[전 세계 한국인의 중심 채널 KBS KOREA]KBS KOREA는 해외동포를 위해 KBS 뉴스, 시사, 교양, 드라마, 예능 프로그램 등을 방송하는 채널입니다. 한국과 같은 시간에 방송되는 다양한 프로그램을 전 세계에서 즐길 수 있습니다. ▶ 편성표 : https://kbswor...</desc>
@@ -42,14 +37,14 @@
     <desc lang="en">[전 세계 한국인의 중심 채널 KBS KOREA]KBS KOREA는 해외동포를 위해 KBS 뉴스, 시사, 교양, 드라마, 예능 프로그램 등을 방송하는 채널입니다. 한국과 같은 시간에 방송되는 다양한 프로그램을 전 세계에서 즐길 수 있습니다. ▶ 편성표 : https://kbswor...</desc>
     <icon src="https://i.ytimg.com/vi/OxQQsIvJTTU/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="KBSKorea.yt" start="20240802120000 +0100" stop="20240802150000 +0100">
+    <title lang="en">KBS KOREA On-Air</title>
+    <desc lang="en">[전 세계 한국인의 중심 채널 KBS KOREA]KBS KOREA는 해외동포를 위해 KBS 뉴스, 시사, 교양, 드라마, 예능 프로그램 등을 방송하는 채널입니다. 한국과 같은 시간에 방송되는 다양한 프로그램을 전 세계에서 즐길 수 있습니다. ▶ 편성표 : https://kbswor...</desc>
+    <icon src="https://i.ytimg.com/vi/OxQQsIvJTTU/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="KBSWorldRadio.yt">
     <display-name lang="en">KBS World Radio</display-name>
   </channel>
-  <programme channel="KBSWorldRadio.yt" start="20240801120000 +0100" stop="20240801150000 +0100">
-    <title lang="en">[ON-AIR] KBS WORLD Radio English Service</title>
-    <desc lang="en">▶Enjoy your favorite programs on KBS WORLD Radio English Service 24/7 on Youtube. For the schedule, click  http://world.kbs.co.kr/service/about_kong.htm?lang...</desc>
-    <icon src="https://i.ytimg.com/vi/EIfaYst9ZsY/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="KBSWorldRadio.yt" start="20240801150000 +0100" stop="20240801180000 +0100">
     <title lang="en">[ON-AIR] KBS WORLD Radio English Service</title>
     <desc lang="en">▶Enjoy your favorite programs on KBS WORLD Radio English Service 24/7 on Youtube. For the schedule, click  http://world.kbs.co.kr/service/about_kong.htm?lang...</desc>
@@ -85,14 +80,14 @@
     <desc lang="en">▶Enjoy your favorite programs on KBS WORLD Radio English Service 24/7 on Youtube. For the schedule, click  http://world.kbs.co.kr/service/about_kong.htm?lang...</desc>
     <icon src="https://i.ytimg.com/vi/EIfaYst9ZsY/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="KBSWorldRadio.yt" start="20240802120000 +0100" stop="20240802150000 +0100">
+    <title lang="en">[ON-AIR] KBS WORLD Radio English Service</title>
+    <desc lang="en">▶Enjoy your favorite programs on KBS WORLD Radio English Service 24/7 on Youtube. For the schedule, click  http://world.kbs.co.kr/service/about_kong.htm?lang...</desc>
+    <icon src="https://i.ytimg.com/vi/EIfaYst9ZsY/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="ArirangTV.yt">
     <display-name lang="en">Arirang TV</display-name>
   </channel>
-  <programme channel="ArirangTV.yt" start="20240801120000 +0100" stop="20240801150000 +0100">
-    <title lang="en">Live from KOREA | 24/7 Streaming | Arirang TV [아리랑TV] (국제방송교류재단)</title>
-    <desc lang="en">.   Arirang TV (World) SCHEDULE : https://arirang.com/scheduleNews : https://www.youtube.com/user/arirangnewsK-Pop : https://www.youtube.com/user/arirangworl...</desc>
-    <icon src="https://i.ytimg.com/vi/CJVBX7KI5nU/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ArirangTV.yt" start="20240801150000 +0100" stop="20240801180000 +0100">
     <title lang="en">Live from KOREA | 24/7 Streaming | Arirang TV [아리랑TV] (국제방송교류재단)</title>
     <desc lang="en">.   Arirang TV (World) SCHEDULE : https://arirang.com/scheduleNews : https://www.youtube.com/user/arirangnewsK-Pop : https://www.youtube.com/user/arirangworl...</desc>
@@ -128,14 +123,14 @@
     <desc lang="en">.   Arirang TV (World) SCHEDULE : https://arirang.com/scheduleNews : https://www.youtube.com/user/arirangnewsK-Pop : https://www.youtube.com/user/arirangworl...</desc>
     <icon src="https://i.ytimg.com/vi/CJVBX7KI5nU/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="ArirangTV.yt" start="20240802120000 +0100" stop="20240802150000 +0100">
+    <title lang="en">Live from KOREA | 24/7 Streaming | Arirang TV [아리랑TV] (국제방송교류재단)</title>
+    <desc lang="en">.   Arirang TV (World) SCHEDULE : https://arirang.com/scheduleNews : https://www.youtube.com/user/arirangnewsK-Pop : https://www.youtube.com/user/arirangworl...</desc>
+    <icon src="https://i.ytimg.com/vi/CJVBX7KI5nU/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="ArirangRadio.yt">
     <display-name lang="en">Arirang Radio</display-name>
   </channel>
-  <programme channel="ArirangRadio.yt" start="20240801120000 +0100" stop="20240801150000 +0100">
-    <title lang="en">[On-Air] Arirang Radio (아리랑 라디오) | Livestream 24/7 (HD)</title>
-    <desc lang="en">Arirang Radio is the first English broadcasting radio station in Korea. We broadcast a variety of Korean culture including K-Pop music as well as news and us...</desc>
-    <icon src="https://i.ytimg.com/vi/P1fX2GGdVS0/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ArirangRadio.yt" start="20240801150000 +0100" stop="20240801180000 +0100">
     <title lang="en">[On-Air] Arirang Radio (아리랑 라디오) | Livestream 24/7 (HD)</title>
     <desc lang="en">Arirang Radio is the first English broadcasting radio station in Korea. We broadcast a variety of Korean culture including K-Pop music as well as news and us...</desc>
@@ -171,14 +166,14 @@
     <desc lang="en">Arirang Radio is the first English broadcasting radio station in Korea. We broadcast a variety of Korean culture including K-Pop music as well as news and us...</desc>
     <icon src="https://i.ytimg.com/vi/P1fX2GGdVS0/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="ArirangRadio.yt" start="20240802120000 +0100" stop="20240802150000 +0100">
+    <title lang="en">[On-Air] Arirang Radio (아리랑 라디오) | Livestream 24/7 (HD)</title>
+    <desc lang="en">Arirang Radio is the first English broadcasting radio station in Korea. We broadcast a variety of Korean culture including K-Pop music as well as news and us...</desc>
+    <icon src="https://i.ytimg.com/vi/P1fX2GGdVS0/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="TBS1013.yt">
     <display-name lang="en">TBS Korea eFM 101.3</display-name>
   </channel>
-  <programme channel="TBS1013.yt" start="20240801120000 +0100" stop="20240801150000 +0100">
-    <title lang="en">TBS eFM 101.3MHz LIVE stream</title>
-    <desc lang="en">TBS eFM [101.3 MHZ] is a 24 hour foreign language radio operating from Seoul, Korea. Our diverse programs cover the areas of news, current affairs, music, cu...</desc>
-    <icon src="https://i.ytimg.com/vi/i2pC0RRyGMg/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="TBS1013.yt" start="20240801150000 +0100" stop="20240801180000 +0100">
     <title lang="en">TBS eFM 101.3MHz LIVE stream</title>
     <desc lang="en">TBS eFM [101.3 MHZ] is a 24 hour foreign language radio operating from Seoul, Korea. Our diverse programs cover the areas of news, current affairs, music, cu...</desc>
@@ -214,14 +209,14 @@
     <desc lang="en">TBS eFM [101.3 MHZ] is a 24 hour foreign language radio operating from Seoul, Korea. Our diverse programs cover the areas of news, current affairs, music, cu...</desc>
     <icon src="https://i.ytimg.com/vi/i2pC0RRyGMg/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="TBS1013.yt" start="20240802120000 +0100" stop="20240802150000 +0100">
+    <title lang="en">TBS eFM 101.3MHz LIVE stream</title>
+    <desc lang="en">TBS eFM [101.3 MHZ] is a 24 hour foreign language radio operating from Seoul, Korea. Our diverse programs cover the areas of news, current affairs, music, cu...</desc>
+    <icon src="https://i.ytimg.com/vi/i2pC0RRyGMg/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="TheKPopLive.yt">
     <display-name lang="en">THE K-POP Live</display-name>
   </channel>
-  <programme channel="TheKPopLive.yt" start="20240801120000 +0100" stop="20240801150000 +0100">
-    <title lang="en">🔴THE K-POP :  24/7 𝗟𝗜𝗩𝗘 (K-POP 24시간 실시간 스트리밍 채널)</title>
-    <desc lang="en">Full Version Live Streaming 'The K-POP'. We provide 'SBS Medianet' original K-POP shows.Our broadcast runs 24 hours a day, 7 days a week.We added BTS to our ...</desc>
-    <icon src="https://i.ytimg.com/vi/JVocS7Yftw8/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="TheKPopLive.yt" start="20240801150000 +0100" stop="20240801180000 +0100">
     <title lang="en">🔴THE K-POP :  24/7 𝗟𝗜𝗩𝗘 (K-POP 24시간 실시간 스트리밍 채널)</title>
     <desc lang="en">Full Version Live Streaming 'The K-POP'. We provide 'SBS Medianet' original K-POP shows.Our broadcast runs 24 hours a day, 7 days a week.We added BTS to our ...</desc>
@@ -253,6 +248,11 @@
     <icon src="https://i.ytimg.com/vi/JVocS7Yftw8/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TheKPopLive.yt" start="20240802090000 +0100" stop="20240802120000 +0100">
+    <title lang="en">🔴THE K-POP :  24/7 𝗟𝗜𝗩𝗘 (K-POP 24시간 실시간 스트리밍 채널)</title>
+    <desc lang="en">Full Version Live Streaming 'The K-POP'. We provide 'SBS Medianet' original K-POP shows.Our broadcast runs 24 hours a day, 7 days a week.We added BTS to our ...</desc>
+    <icon src="https://i.ytimg.com/vi/JVocS7Yftw8/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TheKPopLive.yt" start="20240802120000 +0100" stop="20240802150000 +0100">
     <title lang="en">🔴THE K-POP :  24/7 𝗟𝗜𝗩𝗘 (K-POP 24시간 실시간 스트리밍 채널)</title>
     <desc lang="en">Full Version Live Streaming 'The K-POP'. We provide 'SBS Medianet' original K-POP shows.Our broadcast runs 24 hours a day, 7 days a week.We added BTS to our ...</desc>
     <icon src="https://i.ytimg.com/vi/JVocS7Yftw8/maxresdefault_live.jpg"/>
